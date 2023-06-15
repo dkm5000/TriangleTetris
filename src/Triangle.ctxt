@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Triangle
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Triangle\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Triangle()
+comment2.params=t\ x\ y\ w\ h
+comment2.target=Triangle(int,\ int,\ int,\ int,\ int)
+comment3.params=
+comment3.target=void\ setVertices()
+comment4.params=num\ coord
+comment4.target=int\ getVertices(int,\ int)
+comment5.params=
+comment5.target=boolean\ getExist()
+comment6.params=
+comment6.target=void\ act()
+comment6.text=\r\n\ Act\ -\ do\ whatever\ the\ Triangle\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=7

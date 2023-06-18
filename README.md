@@ -6,3 +6,4 @@ TriangleTetris is a tetris game with triangular pieces. The project was develope
 * if the right border of the playfield is reached, the piece appears on the left side and vice versa
 
 ## Examples
+![](https://github.com/dkm5000/TriangleTetris/blob/main/doc/examples/Photo.png)
